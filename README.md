@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Pokémon Search App
 
-The **Pokémon Search App** is a simple web application that lets users search for Pokémon by name or ID and retrieve detailed information about each one, including its type, abilities, and base stats. The app uses data from the [PokéAPI FreeCodeCamp](https://pokeapi-proxy.freecodecamp.rocks/api/) to provide up-to-date information on all available Pokémon.
+The **Pokémon Search App** is a simple web application that lets users search for Pokémon by name or ID and retrieve detailed information about each one, including its type, abilities, and base stats. The app uses data from the [PokéAPI FreeCodeCamp](https://pokeapi-proxy.freecodecamp.rocks/api/pokemon) to provide up-to-date information on all available Pokémon.
 
 ## ✨ Features
 
@@ -10,7 +10,7 @@ The **Pokémon Search App** is a simple web application that lets users search f
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **API**: [PokéAPI](https://pokeapi-proxy.freecodecamp.rocks/api/)
+- **API**: [PokéAPI FreeCodeCamp](https://pokeapi-proxy.freecodecamp.rocks/api/pokemon)
 
 
 ## 🏁 Getting Started
